@@ -1,0 +1,1 @@
+tic80server_3 --skip --codeimport=./incoming/3.lua --delay=5 --lowerlimit=256 --upperlimit=512 --battletime=25
