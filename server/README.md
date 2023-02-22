@@ -4,7 +4,7 @@
 
 - Windows (this would be trivial to port to other platforms, it's just not been a priority)
 - Python 3
-- Port 4444 exposed to the outside world
+- Port 4444 exposed to the outside world (UDP)
 - Four copies of the bytebattle tic80 client inside the `/server` directory, renamed tic80server_1.exe, tic80server_2.exe, tic80server_3.exe, tic80server4.exe (see the section on OBS)
 
 ## How to run a byte jam
